@@ -5,22 +5,12 @@
 
 ## Introduction 📋
 
-__GPS L1C/A (Coarse/Acquisition)__ are sequences of zeroes and ones used in GPS communications, being __P-Code__ other type of code GPS uses.
-
-They are also known by PRN codes (Pseudorandom Noise), but in reality they are generated using an algorithm, which is freely available, and that's the main goal of this repo.
-
-Inside this repo is an implementation of the C/A Algorithm developed in Python, so anyone could generate codes with customized polynomials and sequences of ```n``` desired bits.
-
-[GPS Signals](https://en.wikipedia.org/wiki/GPS_signals)
-
-![C/A code generator](https://i.stack.imgur.com/UOQnn.png)
-
 ## Features ✨
 
 ## Install 🔧
 
 ```console
-git clone https://github.com/iluzioDev/gp
+git clone https://github.com/iluzioDev/aes.git
 cd aes-cipher
 python3 aes-cipher.py
 ```
