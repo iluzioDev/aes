@@ -11,8 +11,8 @@
 
 ```console
 git clone https://github.com/iluzioDev/aes.git
-cd aes-cipher
-python3 aes-cipher.py
+cd aes
+python3 aes.py
 ```
 
 ## Usage 💡
